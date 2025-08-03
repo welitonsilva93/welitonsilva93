@@ -17,7 +17,8 @@ Tenho experiência como Desenvolvedor Web, utilizando tecnologias como Python, D
 
 
 ---
-![welitonsilva93 GitHub stats](https://github-readme-stats.vercel.app/api?username=welitonsilva93\&rank_icon=github)
+[![card](https://github-readme-stats.vercel.app/api?username=welitonsilva93&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![welitonsilva93](https://github-readme-stats.vercel.app/api/top-langs/?username=welitonsilva93&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Onde me encontrar
 
