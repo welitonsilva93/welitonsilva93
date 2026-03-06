@@ -1,6 +1,6 @@
 ## Olá, meu nome é Weliton!
 
-Trabalho como Analista de Customer Service atuando como ponte entre clientes e o time de desenvolvimento. Traduzo demandas em requisitos técnicos objetivos, colaboro na definição de prioridades e acompanho as entregas com foco em gerar valor real para o cliente.
+Trabalho como Desenvolvedor & Suporte atuando como ponte entre clientes e o time de desenvolvimento. Traduzo demandas em requisitos técnicos objetivos, colaboro na definição de prioridades e acompanho as entregas com foco em gerar valor real para o cliente.
 
 Tenho experiência como Desenvolvedor Web, utilizando tecnologias como Python, Django, PostgreSQL, Docker, JavaScript, HTML e CSS. Além disso, atuo no suporte técnico e contribuo de forma contínua para a evolução das soluções oferecidas, sempre com foco na melhoria da experiência do usuário.
 
