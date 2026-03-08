@@ -7,7 +7,7 @@ Tenho experiência como Desenvolvedor Web, utilizando tecnologias como Python, D
 ## Sobre mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na Unyleya.
-- 💼 Trabalhando como Analista de Customer Service Pleno na InspectoAgri.
+- 💼 Trabalhando como Desenvolvedor/Suporte na PICC InspectoAgri.
 ---
 
 ## 🚀 Minhas Skills
