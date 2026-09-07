@@ -6,7 +6,7 @@ Tenho experiência como Desenvolvedor Web, utilizando tecnologias como Python, D
 
 ## Sobre mim
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas na Unyleya.
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Unyleya.
 - 💼 Trabalhando como Desenvolvedor/Suporte na PICC InspectoAgri.
 ---
 
