@@ -11,7 +11,7 @@ Sou Desenvolvedor Web com experiência em Python e Django, atuando também com s
 
 ## 🚀 Minhas Skills
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,javascript,django,docker,postgres,html,css,bootstrap,git,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,claude,javascript,django,docker,postgres,html,css,bootstrap,git,linux,vscode" />
 </p>
 
 
