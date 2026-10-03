@@ -1,6 +1,6 @@
 ## Olá, meu nome é Weliton!
 
-Sou Desenvolvedor Web com experiência em Python e Django, atuando também com suporte técnico e integração entre clientes e desenvolvimento. Contribuo diretamente na criação, manutenção e evolução das soluções da empresa.
+Sou Desenvolvedor Web com experiência em Python e Django, atuando também como product manager/owner. Contribuo diretamente na criação, manutenção e evolução das soluções da empresa.
 
 
 ## Sobre mim
